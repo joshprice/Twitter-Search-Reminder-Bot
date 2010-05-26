@@ -1,0 +1,1 @@
+Written in Coffeescript and powered by Node.js.  Send this twitter bot a twitter username via DM.  One day later it will DM you a search link for the username you sent it.  This is useful for reminding yourself to look up people's responses to someone's question on twitter (search on that person's username).
